@@ -1,0 +1,29 @@
+form.formBox {
+    padding: 48px 0px 12px 0px;
+    display: flex;
+    justify-content: center;
+}
+
+input.formInput {
+    width: 40vw;
+    padding: 12px;
+    border-radius: 4px 0px 0px 4px;
+    border: 1px #fafafaa7 solid;
+    background-color: #fafafa;
+    font-size: 16px;
+}
+
+button.formAddButton {
+    background-color: #fafafa;
+    color: rgb(98, 10, 181);
+    border: none;
+    border-radius: 0px 4px 4px 0px;
+    padding: 0px 12px;
+}
+
+select.formSelect {
+    margin-left: 16px;
+    border-radius: 4px;
+    font-size: 16px;
+    padding: 12px;
+}
