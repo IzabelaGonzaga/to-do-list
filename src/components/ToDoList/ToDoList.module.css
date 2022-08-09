@@ -1,0 +1,8 @@
+div.toDoListBox {
+    margin: 32px auto 32px auto;
+}
+
+h2.toDoListInfo {
+    text-align: center;
+    font-size: 28px;
+}

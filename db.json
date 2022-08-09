@@ -1,0 +1,19 @@
+{
+  "tasks": [
+    {
+      "title": "Lavar roupas",
+      "status": "active",
+      "id": 1
+    },
+    {
+      "title": "Estudar react",
+      "status": "active",
+      "id": 2
+    },
+    {
+      "title": "Fazer compras",
+      "status": "active",
+      "id": 3
+    }
+  ]
+}

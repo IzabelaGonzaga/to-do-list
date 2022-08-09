@@ -7,6 +7,9 @@
 }
 
 div.App {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
     background-image: linear-gradient(120deg, #980dd4 0%, #030197 100%);
     color: white;
     min-height: 100vh;
@@ -20,4 +23,8 @@ header.title {
     padding-top: 10vh;
     font-family: 'Edu SA Beginner', cursive;
 }
-  
+
+article.container {
+    width: 100vw;
+    padding: 0 25vw;
+}
